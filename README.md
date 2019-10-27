@@ -1,21 +1,28 @@
-# rTexPackerImporter v1.0
-# 27/10/2019
+# rTexPackerImporter v1.0 for Unity
 
-License: MIT License
+`rTexPacker Importer` extends the Unity editor to read sprite atlas data created with rTexPacker (.rtpa, .xml, .json). 
+It imports each sprite atlas as native Unity 2D spritesheet, the sprites can be directly used in the editor.
 
-The rTexPacker Importer extends the Unity editor to read sprite atlas data created with rTexPacker. 
-It imports each sprite atlas as native Unity 2D spritesheet, the sprites can directly be used in the editor.
+`rTexPacker` is a simple and easy-to-use textures packer and font atlas generator. [Chek it out!](https://raylibtech.itch.io/rtexpacker)
 
-rTexPacker is a simple and easy-to-use textures packer and font atlas generator. (https://raylibtech.itch.io/rtexpacker)
+### Usage
 
-Right-click your atlas image, then select the menu rTexPacker/Create Sprite Sheets
+Mouse Right-click on your atlas image and select in the menu `rTexPacker/Create Sprite Sheets`
 
-Support .png image files.
+### Supported atlas formats
 
-Atlas data support:
-    - xml
-    - json
-    - rtpa (rTexPacker format)
+Atlas descriptot data:
+
+  - rtpa (rTexPacker format)
+  - xml
+  - json
+
+Atlas image data:
+  - png
+
+### License
+
+rTexPacker Importer is licensed under MIT License. Check [LICENSE](LICENSE) for details.
+
     
-Developed by: 
-	Sergio Martínez (@anidealgift)
+**Developed by: Sergio Martínez ([@anidealgift](https://github.com/anidealgift))**

@@ -1,7 +1,7 @@
 # rTexPackerImporter v1.0
 # 27/10/2019
 
-License: GNU General Public License v3.0 (https://www.gnu.org/licenses/gpl-3.0.html)
+License: MIT License
 
 The rTexPacker Importer extends the Unity editor to read sprite atlas data created with rTexPacker. 
 It imports each sprite atlas as native Unity 2D spritesheet, the sprites can directly be used in the editor.

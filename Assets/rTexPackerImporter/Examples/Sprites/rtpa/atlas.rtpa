@@ -1,0 +1,101 @@
+#
+# rTexPacker atlas descriptor file (v1.0)
+#
+# Number of packed sprites:     92
+#
+# Atlas info:    a <imagePath> <width> <height> <spriteCount> <isFont> <fontSize>
+# Sprite info:   s <nameId> <originX> <originY> <positionX> <positionY> <sourceSizeWidth> <sourceSizeHeight> <padding> <trimmed> <trimRecX> <trimRecY> <trimRecWidth> <trimRecHeight>
+#
+a atlas.png 2048 2048 92 0 32
+s title_speaker_off 0 0 795 895 61 71 2 1 0 0 61 71
+s title_speaker_on 0 0 730 895 61 71 2 1 0 0 61 71
+s title_textsnow01 0 0 0 1106 439 30 2 1 0 0 439 30
+s title_textsnow02 0 0 1083 1056 423 48 2 1 0 0 423 48
+s title_textsnow03 0 0 755 1102 215 32 2 1 0 0 215 32
+s title_textsnow04 0 0 1060 1108 414 20 2 1 0 0 414 20
+s title_titletext 0 0 443 0 512 348 2 1 0 6 510 335
+s title_twitter 0 0 917 885 92 92 2 1 0 0 92 92
+s ending_button_replay 0 0 790 768 123 123 2 1 0 0 123 123
+s ending_button_share 0 0 0 765 123 123 2 1 0 0 123 123
+s ending_button_shop 0 0 127 765 123 123 2 1 0 0 123 123
+s ending_button_trophy 0 0 663 768 123 123 2 1 0 0 123 123
+s ending_goals_check_plate 0 0 52 1055 36 34 2 1 0 1 35 33
+s ending_goals_check_v 0 0 0 1055 50 42 2 1 2 2 48 38
+s ending_goals_check_x 0 0 1083 980 42 51 2 1 0 0 42 51
+s ending_goals_icon_death 0 0 552 985 60 60 2 1 3 3 54 56
+s ending_goals_icon_leaves 0 0 494 985 60 60 2 1 3 3 54 56
+s ending_goals_icon_special 0 0 1876 1021 60 60 2 1 3 3 54 56
+s ending_goals_icon_time 0 0 1967 1017 60 60 2 1 3 3 54 56
+s ending_paint_back 0 0 957 0 258 305 2 1 4 6 254 299
+s ending_paint_frame 0 0 105 0 334 393 2 1 0 0 334 393
+s ending_paint_koalabee 0 0 797 557 219 216 2 1 9 6 202 207
+s ending_paint_koaladingo 0 0 105 397 219 216 2 1 0 6 219 210
+s ending_paint_koalaeagle 0 0 411 593 219 216 2 1 0 54 219 153
+s ending_paint_koalafire 0 0 1194 557 219 216 2 1 21 12 182 187
+s ending_paint_koalageneric 0 0 443 339 253 250 2 1 0 0 253 250
+s ending_paint_koalaowl 0 0 1216 885 100 81 2 1 0 0 100 81
+s ending_paint_koalasnake 0 0 1380 557 219 216 2 1 29 21 132 184
+s ending_plate_frame 0 0 957 303 1052 250 2 1 0 0 1052 250
+s ending_plate_headbee 0 0 903 981 62 60 2 1 0 0 62 60
+s ending_plate_headdingo 0 0 1909 947 56 70 2 1 2 0 54 70
+s ending_plate_headeagle 0 0 916 1045 39 48 2 1 0 0 39 48
+s ending_plate_headowl 0 0 844 1045 72 48 2 1 2 0 68 48
+s ending_plate_headsnake 0 0 860 965 46 67 2 1 3 0 39 65
+s ending_score_enemyicon 0 0 1013 885 113 91 2 1 0 0 113 91
+s ending_score_frame 0 0 1663 850 119 123 2 1 0 0 119 123
+s ending_score_frameback 0 0 1786 851 119 123 2 1 0 2 119 119
+s ending_score_leavesicon 0 0 1698 716 135 130 2 1 0 0 135 130
+s ending_score_planklarge 0 0 226 1054 525 48 2 1 0 0 525 48
+s ending_score_planksmall 0 0 1510 1081 389 48 2 1 0 0 389 48
+s ending_score_seasonicon 0 0 1859 711 135 136 2 1 0 0 135 136
+s ending_score_seasonneedle 0 0 2025 1017 12 45 2 1 0 0 12 45
+s gameplay_back_fx_lightraymid 0 0 2013 0 14 216 2 1 0 0 14 206
+s gameplay_countdown_1 0 0 328 397 110 216 2 1 18 11 79 193
+s gameplay_countdown_2 0 0 1099 557 110 216 2 1 12 13 91 192
+s gameplay_countdown_3 0 0 1003 557 110 216 2 1 11 12 92 192
+s gameplay_enemy_bee 0 0 226 991 250 60 2 1 2 1 247 59
+s gameplay_enemy_dingo 0 0 105 611 240 150 2 1 13 0 223 150
+s gameplay_enemy_eagle 0 0 1130 972 460 80 2 1 7 0 453 80
+s gameplay_enemy_eagle_death 0 0 1516 734 150 128 2 1 2 0 143 127
+s gameplay_enemy_owl 0 0 0 974 240 80 2 1 18 2 222 77
+s gameplay_enemy_snake 0 0 332 750 360 128 2 1 22 0 327 128
+s gameplay_fx_eaglealert 0 0 700 339 93 240 2 1 0 8 93 224
+s gameplay_fx_lightraymid 0 0 47 0 54 710 2 1 0 0 54 710
+s gameplay_gui_leafcounter_base 0 0 1516 557 178 175 2 1 0 0 178 173
+s gameplay_gui_leafcounter_cell 0 0 512 1106 32 32 2 1 6 9 20 13
+s gameplay_gui_leafcounter_glow 0 0 634 593 146 146 2 1 0 0 146 146
+s gameplay_gui_leafcounter_pulsel 0 0 1698 557 157 155 2 1 0 0 157 155
+s gameplay_gui_seasonsclock_base 0 0 1859 557 151 150 2 1 0 0 151 150
+s gameplay_gui_seasonsclock_disc 0 0 1215 0 300 303 2 1 0 6 300 297
+s gameplay_koala_dash 0 0 917 768 100 100 2 1 18 3 64 94
+s gameplay_koala_die 0 0 645 895 100 100 2 1 10 11 81 78
+s gameplay_koala_fly 0 0 645 977 200 100 2 1 4 15 195 69
+s gameplay_koala_idle 0 0 1587 977 300 100 2 1 0 12 285 76
+s gameplay_koala_jump 0 0 1130 885 100 100 2 1 9 8 82 83
+s gameplay_koala_menu 0 0 494 882 150 100 2 1 2 0 147 99
+s gameplay_koala_transform 0 0 0 892 200 100 2 1 5 11 181 78
+s gameplay_props_burnttree 0 0 0 0 43 720 2 1 0 0 43 720
+s gameplay_props_fire_spritesheet 0 0 254 882 256 128 2 1 9 12 236 105
+s gameplay_props_ice_sprite 0 0 1998 711 32 128 2 1 0 0 32 128
+s gameplay_props_leaf_big 0 0 1013 980 64 64 2 1 0 4 63 60
+s gameplay_props_leaf_lil 0 0 969 1044 64 64 2 1 13 4 50 54
+s gameplay_props_leaf_mid 0 0 755 1050 64 64 2 1 0 6 56 46
+s gameplay_props_owl_branch 0 0 472 1106 36 24 2 1 0 0 36 24
+s gameplay_props_resin_sprite 0 0 226 892 32 64 2 1 10 0 19 64
+s gameplay_props_whirlwind_spritesheet 0 0 1003 753 512 128 2 1 3 0 502 128
+s particle_dandelion 0 0 1023 1101 32 32 2 1 2 1 24 30
+s particle_dandelion_bw 0 0 1998 1077 32 32 2 1 2 1 24 30
+s particle_ecualyptusflower 0 0 974 1102 32 32 2 1 4 1 25 29
+s particle_ecualyptusflower_bw 0 0 443 1106 32 32 2 1 4 1 25 29
+s particle_ecualyptusleaf 0 0 159 1055 32 32 2 1 2 0 29 32
+s particle_hit 0 0 1023 1044 56 53 2 1 0 0 56 53
+s particle_icecrystal 0 0 125 1055 32 32 2 1 1 0 30 32
+s particle_icecrystal_bw 0 0 91 1055 32 32 2 1 1 0 30 32
+s particle_planetreeleaf 0 0 1934 1077 32 32 2 1 3 1 28 31
+s particle_planetreeleaf_bw 0 0 1966 1077 32 32 2 1 3 1 28 31
+s particle_waterdrop 0 0 1903 1081 32 32 2 1 13 2 5 24
+s particle_waterdrop_bw 0 0 1051 1101 32 32 2 1 13 2 5 24
+s title_facebook 0 0 1909 851 92 92 2 1 0 0 92 92
+s title_googleplay 0 0 1509 865 92 92 2 1 0 0 92 92
+s title_music_off 0 0 1967 947 65 66 2 1 0 0 65 66
+s title_music_on 0 0 860 895 39 66 2 1 0 0 39 66
